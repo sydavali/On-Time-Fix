@@ -68,7 +68,7 @@ Finding reliable technicians for home services is often time‑consuming and unc
 Below is a curated walkthrough of the application’s core flows and UI screens.
 
 🔐 Authentication & Onboarding
-<p> <img src="screenshots/splash.png" width="220"/> <img src="screenshots/login.png" width="220"/> <img src="screenshots/signup.png" width="220"/> </p> <p> <img src="screenshots/role-selection.png" width="220"/> <img src="screenshots/forgot-password.png" width="220"/> </p>
+<p> <img src="screenshots/splash.png" width="180"/> <img src="screenshots/login.png" width="220"/> <img src="screenshots/signup.png" width="220"/> </p> <p> <img src="screenshots/role-selection.png" width="220"/> <img src="screenshots/forgot-password.png" width="220"/> </p>
 👥 Customer Flow
 <p> <img src="screenshots/customer-home.png" width="220"/> <img src="screenshots/technician-list.png" width="220"/> <img src="screenshots/booking-form.png" width="220"/> </p> <p> <img src="screenshots/my-bookings.png" width="220"/> <img src="screenshots/job-completed.png" width="220"/> <img src="screenshots/rating.png" width="220"/> </p>
 🧰 Technician Flow
