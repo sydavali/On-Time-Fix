@@ -63,40 +63,45 @@ Finding reliable technicians for home services is often time‑consuming and unc
 
 ---
 
-## 📱 Screenshots
+📱 Screenshots
 
-> Below is a curated walkthrough of the application’s core flows and UI screens.
+Below is a curated walkthrough of the application’s core flows and UI screens.
 
-### 🔐 Authentication & Onboarding
-
-* Splash Screen<p align="center">
-  <img src="screenshots/splash.png" width="220"/>
-</p>
-* Role Selection (Customer / Technician) <p align="center">
-  <img src="screenshots/role-selection.png" width="220"/>
-</p>
-* Login  <p align="center"> <img src="screenshots/login.png" width="220"/> </p>
-  
-* Sign Up <img src="screenshots/signup.png" width="220"/>
-* Forgot Password
-
-### 👥 Customer Flow
-
-* Customer Home (Service Categories)
-* Technician List
-* Booking Form
-* My Bookings (Pending / In‑Progress / Completed)
-* Job Completion Confirmation
-* Rating & Feedback Screen
-
-### 🧰 Technician Flow
-
-* Technician Dashboard (Pending / In‑Progress / History)
-* Accept / Decline Job
-* Active Job View
-* Job Completion Flow
-* Technician Profile Setup
-
+🔐 Authentication & Onboarding
+Splash Screen
+<p> <img src="screenshots/splash.png" width="220"/> </p>
+Role Selection (Customer / Technician)
+<p> <img src="screenshots/role-selection.png" width="220"/> </p>
+Login
+<p> <img src="screenshots/login.png" width="220"/> </p>
+Sign Up
+<p> <img src="screenshots/signup.png" width="220"/> </p>
+Forgot Password
+<p> <img src="screenshots/forgot-password.png" width="220"/> </p>
+👥 Customer Flow
+Customer Home (Service Categories)
+<p> <img src="screenshots/customer-home.png" width="220"/> </p>
+Technician List
+<p> <img src="screenshots/technician-list.png" width="220"/> </p>
+Booking Form
+<p> <img src="screenshots/booking-form.png" width="220"/> </p>
+My Bookings (Pending / In-Progress / Completed)
+<p> <img src="screenshots/my-bookings.png" width="220"/> </p>
+Job Completion Confirmation
+<p> <img src="screenshots/job-completion-confirm.png" width="220"/> </p>
+Rating & Feedback Screen
+<p> <img src="screenshots/rating.png" width="220"/> </p>
+🧰 Technician Flow
+Technician Dashboard (Pending / In-Progress / History)
+<p> <img src="screenshots/technician-dashboard.png" width="220"/> </p>
+Accept / Decline Job
+<p> <img src="screenshots/accept-decline-job.png" width="220"/> </p>
+Active Job View
+<p> <img src="screenshots/active-job.png" width="220"/> </p>
+Job Completion Flow
+<p> <img src="screenshots/job-completed.png" width="220"/> </p>
+Technician Profile Setup
+<p> <img src="screenshots/technician-profile.png" width="220"/> </p>
 *(Screenshots included in the repository for full visual reference)*
 
 ---
