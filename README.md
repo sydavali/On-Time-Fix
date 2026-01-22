@@ -69,12 +69,15 @@ Finding reliable technicians for home services is often time‑consuming and unc
 
 ### 🔐 Authentication & Onboarding
 
-* Splash Screen
+* Splash Screen<p align="center">
+  <img src="screenshots/splash.png" width="220"/>
+</p>
 * Role Selection (Customer / Technician) <p align="center">
   <img src="screenshots/role-selection.png" width="220"/>
 </p>
-* Login
-* Sign Up
+* Login  <p align="center"> <img src="screenshots/login.png" width="220"/> </p>
+  
+* Sign Up <img src="screenshots/signup.png" width="220"/>
 * Forgot Password
 
 ### 👥 Customer Flow
