@@ -70,7 +70,9 @@ Finding reliable technicians for home services is often time‑consuming and unc
 ### 🔐 Authentication & Onboarding
 
 * Splash Screen
-* Role Selection (Customer / Technician)
+* Role Selection (Customer / Technician) <p align="center">
+  <img src="screenshots/role-selection.png" width="220"/>
+</p>
 * Login
 * Sign Up
 * Forgot Password
