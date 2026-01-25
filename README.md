@@ -63,92 +63,54 @@ Finding reliable technicians for home services is often time‑consuming and unc
 
 ---
 
-📱 Screenshots
+## 📱 Application Walkthrough
 
-Below is a curated walkthrough of the application’s core flows and UI screens.
+### 🔐 Authentication & Onboarding
+**Splash Screen → Sign Up / Login → Role Selection (Customer / Technician)**  
+*Forgot Password flow available during authentication*
 
-📱 Screenshots
-
-Below is a curated walkthrough of ON TIME FIX, highlighting key user flows and system interactions.
-
-🔐 Authentication & Onboarding — Overview
-<p> <img src="screenshots/splash.png" width="180"/> <img src="screenshots/login.png" width="180"/> <img src="screenshots/signup.png" width="180"/> </p>
-👥 Customer Experience — Overview
-<p> <img src="screenshots/customer-home.png" width="180"/> <img src="screenshots/technician-list.png" width="180"/> <img src="screenshots/my-bookings.png" width="180"/> </p>
-🧰 Technician Workflow — Overview
-<p> <img src="screenshots/technician-dashboard.png" width="180"/> <img src="screenshots/job-in-progress.png" width="180"/> <img src="screenshots/job-completed.png" width="180"/> </p>
-🔍 Detailed Screen Walkthrough
-🔐 Authentication & Onboarding
-
-Splash Screen
-Initial branding screen displayed on app launch.
-
-<p> <img src="screenshots/splash.png" width="160"/> </p> <br/>
-
-Login Screen
-Secure authentication using Firebase Authentication.
-
-<p> <img src="screenshots/login.png" width="160"/> </p> <br/>
-
-Sign Up Screen
-New user registration with email & password.
-
-<p> <img src="screenshots/signup.png" width="160"/> </p> <br/>
-
-Forgot Password
-Password recovery via email verification.
-
-<p> <img src="screenshots/forgot-password.png" width="160"/> </p> <br/>
-
-Role Selection
-User chooses between Customer and Technician roles.
-
-<p> <img src="screenshots/role-selection.png" width="160"/> </p>
-👥 Customer Flow
-
-Customer Profile Setup
-
-<p> <img src="screenshots/customer-profile.png" width="160"/> </p> <br/>
-
-Service Categories
-
-<p> <img src="screenshots/customer-home.png" width="160"/> </p> <br/>
-
-Technician Listing
-
-<p> <img src="screenshots/technician-list.png" width="160"/> </p> <br/>
-
-Service Booking
-
-<p> <img src="screenshots/booking-form.png" width="160"/> </p> <br/>
-
-My Bookings
-
-<p> <img src="screenshots/my-bookings.png" width="160"/> </p> <br/>
-
-Job Completion & Rating
-
-<p> <img src="screenshots/job-completion-confirm.png" width="160"/> <img src="screenshots/rating.png" width="160"/> </p>
-🧰 Technician Flow
-
-Technician Profile Setup
-
-<p> <img src="screenshots/technician-profile.png" width="160"/> </p> <br/>
-
-Technician Dashboard
-
-<p> <img src="screenshots/technician-dashboard.png" width="160"/> </p> <br/>
-
-Job Acceptance & Execution
-
-<p> <img src="screenshots/accept-decline-job.png" width="160"/> <img src="screenshots/job-in-progress.png" width="160"/> </p> <br/>
-
-Job Completion & History
-
-<p> <img src="screenshots/job-completed.png" width="160"/> <img src="screenshots/technician-job-history.png" width="160"/> </p>
-*(Screenshots included in the repository for full visual reference)*
+<p>
+  <img src="screenshots/splash.png" width="170"/>
+  <img src="screenshots/signup.png" width="170"/>
+  <img src="screenshots/role-selection.png" width="170"/>
+</p>
 
 ---
+
+### 👥 Customer Flow
+**Profile Setup → Service Categories → Technician List → Booking Form →  
+My Bookings (Pending / In-Progress / Completed) → Job Completion → Rating & Feedback**
+
+<p>
+  <img src="screenshots/customer-profile.png" width="170"/>
+  <img src="screenshots/customer-home.png" width="170"/>
+  <img src="screenshots/technician-list.png" width="170"/>
+</p>
+
+<p>
+  <img src="screenshots/booking-form.png" width="170"/>
+  <img src="screenshots/my-bookings.png" width="170"/>
+  <img src="screenshots/rating.png" width="170"/>
+</p>
+
+---
+
+### 🧰 Technician Flow
+**Profile Setup → Dashboard (Pending / In-Progress / History) →  
+Accept / Decline Job → Active Job → Job Completion → Job History**
+
+<p>
+  <img src="screenshots/technician-profile.png" width="170"/>
+  <img src="screenshots/technician-dashboard.png" width="170"/>
+  <img src="screenshots/accept-decline-job.png" width="170"/>
+</p>
+
+<p>
+  <img src="screenshots/job-in-progress.png" width="170"/>
+  <img src="screenshots/job-completed.png" width="170"/>
+  <img src="screenshots/technician-job-history.png" width="170"/>
+</p>
+
 
 ## 🧩 Architecture Overview
 
