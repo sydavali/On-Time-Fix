@@ -107,7 +107,7 @@ Accept / Decline Job → Active Job → Job Completion → Job History**
 
 <p>
   <img src="screenshots/job-in-progress.png" width="170"/>
-  <img src="screenshots/job-completed.png" width="170"/>
+  
   <img src="screenshots/technician-job-history.png" width="170"/>
 </p>
 
