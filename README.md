@@ -74,7 +74,9 @@ Finding reliable technicians for home services is often time‑consuming and unc
   <img src="screenshots/signup.png" width="170"/>
   <img src="screenshots/role-selection.png" width="170"/>
 </p>
-
+<p>
+  <img src="screenshots/forgot-password.png" width="170"/>
+</p>
 ---
 
 ### 👥 Customer Flow
